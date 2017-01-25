@@ -1,1 +1,3 @@
-# repo4test
+$mvn package  #build
+
+$java -jar target/xxx.war  #run locally
