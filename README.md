@@ -1,3 +1,5 @@
-$mvn package  #build
-
-$java -jar target/xxx.war  #run locally
+![](https://travis-ci.org/team-ice/repo4test.svg?branch=master)  
+build  
+`$mvn package`  
+run locally  
+`$java -jar target/xxx.war`
